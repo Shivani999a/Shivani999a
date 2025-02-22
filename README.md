@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**Shivani999a/Shivani999a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Hello, I'm Bandi Shivani!
+💡 Passionate IT Enthusiast | Machine Learning & Software Development
 
-Here are some ideas to get you started:
+🔹 B.Tech in Information Technology @ Gokaraju Rangaraju Institute of Engineering & Technology (CGPA: 7.8/10)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Intern at NIT Warangal | Machine Learning | Data Analysis | Visualization
+
+## 🛠 Technical Skills
+💻 Java | OOPS | DBMS | OS | Computer Networks | Machine Learning
+
+📊 NumPy | Pandas | Matplotlib | Data Preprocessing
+
+## 📌 Projects
+🔹 Medical Prescription Recognition – OCR & CNN-based system for digitizing handwritten prescriptions
+
+🔹 Agriculture Yield Prediction System – Machine learning model using Random Forest for crop yield prediction
+
+## 🎯 Certifications
+✔ Java Programming – IIT Bombay Spoken Tutorial
+
+✔ Introduction to Packet Tracer – CISCO
+
+✔ Data Science for Engineering – NPTEL
