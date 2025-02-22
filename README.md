@@ -16,6 +16,9 @@
 
 🔹 Agriculture Yield Prediction System – Machine learning model using Random Forest for crop yield prediction
 
+🔹 Student Marks Calculation System - calculates the total marks, average, and grade.
+
+
 ## 🎯 Certifications
 ✔ Java Programming – IIT Bombay Spoken Tutorial
 
